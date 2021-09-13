@@ -30,4 +30,6 @@ Here are some of the website's features:
 - /static includes pictures and icons.
 - /templates includes .html files.
 
+#### Final thoughts:
+
 I wanted to create a minimalistic-style website where it has a variety of different features. I really like the idea of color gradients hence the background. Since this is my first ever public project, there may be bugs and areas where I could improve the code. All in all, this website has served as a massive learning experience with HTML, CSS, and Python!
