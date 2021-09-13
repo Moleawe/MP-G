@@ -22,10 +22,10 @@ Here are some of the website's features:
 - Random # Generator (MP)
 - Guess the Number (G)
 
-application.py contains the backend portion of the website made with Python.
-qr.py contains the 'generateqr' function for the QR Code Generator feature.
+- application.py contains the backend portion of the website made with Python.
+- qr.py contains the 'generateqr' function for the QR Code Generator feature.
 
-/static includes pictures and icons.
-/templates includes .html files.
+- /static includes pictures and icons.
+- /templates includes .html files.
 
-All in all, I wanted to create a minimalistic-style website where it has a variety of different features. I really like the idea of color gradients hence the background. Since this is my first ever public project, there may be bugs and areas where I could improve the code. All in all, this website has served as a massive learning experience with HTML, CSS, and Python! 
+I wanted to create a minimalistic-style website where it has a variety of different features. I really like the idea of color gradients hence the background. Since this is my first ever public project, there may be bugs and areas where I could improve the code. All in all, this website has served as a massive learning experience with HTML, CSS, and Python!
