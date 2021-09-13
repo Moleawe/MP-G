@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Guess the Number!
+{% endblock %}
+
+{% block main %}
+<h1>Guess the Number!</h1>
+    <h4>The AI is thinking a number between 1-1000. Try to guess what the number is!</h4>
+        <p class="answer">{{ answer }}</p>
+    <form action='/guess' method='post'>
+        Your Guess: <input type='text' name="guess">
+        <input type='submit' value='Submit'>
+        <br>
+        <br>
+        <a class="btn btn-outline-primary" href="/" role="button"> Reset </a>
+    </form>
+
+{% endblock %}

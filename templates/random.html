@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Your Number
+{% endblock %}
+
+{% block main %}
+<p> {{ random_number }} is your random number. </p>
+<a class="btn btn-outline-primary" href="/random" role="button"> Generate New Number </a>
+<br>
+<br>
+<footer class="small text-center text-muted">
+    # 1 - 999
+</footer>
+{% endblock %}
