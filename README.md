@@ -22,6 +22,8 @@ Here are some of the website's features:
 - Random # Generator (MP)
 - Guess the Number (G)
 
+#### Files:
+
 - application.py contains the backend portion of the website made with Python.
 - qr.py contains the 'generateqr' function for the QR Code Generator feature.
 
